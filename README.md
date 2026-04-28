@@ -3,7 +3,7 @@
 This is my personal portfolio showcasing Machine Learning and Data Analytics projects.
 
 ## 🔗 Live Website
-https://yourusername.github.io/portfolio/
+https://mohitkedia.github.io/portfolio/
 
 ## 📊 Projects Included
 
