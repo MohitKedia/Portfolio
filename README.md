@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Kedia</h1>
 <h3 align="center">Data Enthusiast | Business Analyst | Storyteller in SQL and Dashboards</h3>
 
-<a This is my personal portfolio showcasing Machine Learning and Data Analytics projects</a>
+This is my personal portfolio showcasing Machine Learning and Data Analytics projects
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohitkedia5/" target="_blank">
