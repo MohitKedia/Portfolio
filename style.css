@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f5f7fa;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    background: #111;
+    color: white;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 🔥 3 CARDS IN ONE ROW */
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.tech {
+    color: gray;
+    font-size: 14px;
+}
